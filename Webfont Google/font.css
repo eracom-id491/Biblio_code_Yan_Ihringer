@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Langar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Langar&family=Permanent+Marker&display=swap');
+
+
+.A {
+	font-family: 'Langar', cursive;
+}
+
+.B {
+	font-family: 'Bungee Outline', cursive;
+}
+
+.C {
+	font-family: 'Permanent Marker', cursive;
+}
+
+body {
+	background-color: brown;
+}
