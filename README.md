@@ -1,2 +1,7 @@
 # Biblio_code_Yan_Ihringer
-Ma bibliothèque de code
+Voici ma bibiothèque de code.
+
+La pluspart de mes sources proviènnent 
+de w3school ce qui m'as beaucoup aidé.
+
+Yan
